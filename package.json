@@ -1,0 +1,14 @@
+{
+  "name": "angularwithreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd exampleComponent && rollup -c -f iife -n ExampleComponent && cd .. && serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^9.4.2"
+  }
+}

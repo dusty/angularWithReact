@@ -1,0 +1,15 @@
+/* add css styles here (optional) */
+
+.test {
+  width: 400px;
+  padding: 1em;
+  border: 2px solid #000;
+  font-size: 2em;
+}
+
+.test input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 1em;
+  display: block;
+}
